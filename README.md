@@ -1,4 +1,3 @@
-```markdown
 # Gerador de READMEs Personalizados  
 
 Bem-vindo ao **Gerador de READMEs Personalizados**!  
@@ -80,4 +79,3 @@ Contribuições são muito bem-vindas! Se você tem sugestões, encontrou algum 
 ---  
 
 Obrigado por apoiar este projeto! Vamos juntos transformar ideias em realidade! 🚀  
-```  
